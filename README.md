@@ -1,1 +1,1 @@
-As you can tell by the lack of structure, usability, and legibility, this is very much a work in progress.
+Use the view(FlexibleSystem) to bring up the system in a 3D scatterplot. Hit space to select an atom and see its coordinates. Select multiple atoms to see their indices. Select empty space to deselect.
